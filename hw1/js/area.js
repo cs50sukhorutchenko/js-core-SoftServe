@@ -12,6 +12,6 @@
 попробывать консольный ввод данны и через форму
 */
 function CalculateArea() {
-	var radius = document.getElementById('txtRadius').value;
+	let radius = document.getElementById('txtRadius').value;
 	document.getElementById("result").innerHTML = `Area = ${radius * radius * Math.PI}`;
 }

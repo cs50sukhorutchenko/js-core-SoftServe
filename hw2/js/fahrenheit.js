@@ -1,4 +1,4 @@
-function CalculateArea() {
+function Calculate() {
 	let celsius = document.getElementById('txtCelsius').value;
 	let fahrenheit = celsius * 9 / 5 + 32;
 

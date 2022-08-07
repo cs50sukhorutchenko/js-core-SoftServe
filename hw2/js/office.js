@@ -1,5 +1,4 @@
-
-function CalculateArea() {
+function Calculate() {
 
 	const MAX_VALUE = 1000;
 
